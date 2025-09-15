@@ -1,7 +1,7 @@
-📊 Job Opening-EXcel-Dashboard
-
  ![Dashboard Preview](https://github.com/Deepakkumbhar07/Job-Opening--Excel-Dashboard/blob/main/Job%20Opening%20Dashboard.png)
 
+
+📊 Job Opening-EXcel-Dashboar
 Short Description / Purpose
 
 This project analyzes job openings across industries, education requirements, job status, and locations. The dashboard provides insights into which industries have the highest openings, the qualifications in demand, and geographical job distributions, helping businesses, policymakers, and job seekers understand current employment trends.
