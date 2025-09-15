@@ -1,7 +1,6 @@
 📊 Job Opening-EXcel-Dashboard
 
- ![Dashboard Preview]()
-
+ ![Dashboard Preview](https://github.com/Deepakkumbhar07/Job-Opening--Excel-Dashboard/blob/main/Job%20Opening%20Dashboard.png)
 
 Short Description / Purpose
 
